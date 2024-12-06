@@ -1,0 +1,7 @@
+dataset/
+images/
+outputs/
+work_dirs/
+
+*.pt
+*.onnx
